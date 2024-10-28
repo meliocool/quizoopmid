@@ -1,4 +1,4 @@
-## Getting Started
+## Overview
 
 This is a repository for my Object-Oriented Programming Quiz :D
 
