@@ -14,5 +14,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Clone this
 Run the following command
 ```bash
-git clone https://github.com/username/quizoopmid.git
+git clone https://github.com/meliocool/quizoopmid.git
 
